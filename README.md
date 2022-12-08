@@ -1,10 +1,13 @@
-# Fluxo de Instalação/Uso do Sanity Studio
+# Fluxo de Instalação/Uso do Sanity Studio (Sanity Studio v2)
 
 ## Etapa 1:
 Você deve possuir uma instalação do CLI do Sanity em seu computador e uma conta criada na Plataforma deles. Caso não tenha, ou ainda se você não conhece o Sanity, veja nos links a seguir em como dar os primeiros passos, é super rápido e importante!
 * [sanity](https://www.sanity.io/)
 * [getting-started](https://www.sanity.io/docs/getting-started-with-sanity)
 * [video tutorial (legendas)](https://www.youtube.com/watch?v=C51banxEeJE)
+
+__NOTA__: Já está disponível o Sanity Studio v3.<br />
+Veja como migrar: [Saiba como migrar o Sanity Studio de v2 para v3](https://www.sanity.io/docs/migrating-from-v2)
 
 ## Etapa 2:
 Depois de instalado, crie um "Projeto Vazio", ou seja, sem a utilização de algum template como referência. Concluído o processo de instalação do seu projeto, dê início a ele, e faça o login com os dados que você utilizou na criação de sua conta na __Etapa 1__.
@@ -26,13 +29,16 @@ __NOTA:__ Você pode usar as imagens disponíveis na pasta `img` deste repositó
 Agora você tem uma base de dados remota e gerenciável para utilizar em seu site, clique no link a seguir para configurar o Front-end com a Api do Sanity. Link para o setup: [__Front-end Setup__](https://github.com/vini-cabral/clone-interior-design#etapa-2---vari%C3%A1veis-de-ambiente)
 
 
-# Sanity Studio Installation and Use Manual
+# Sanity Studio Installation and Use Manual (Sanity Studio v2)
 
 ## Step 1
 You must have a Sanity CLI installation on your computer and an account created on their Platform. If you don't, or if you don't know Sanity yet, check the links below on how to take the first steps, it's very quick and important!
 * [sanity](https://www.sanity.io/)
 * [getting-started](https://www.sanity.io/docs/getting-started-with-sanity)
 * [video tutorial (subtitles)](https://www.youtube.com/watch?v=C51banxEeJE)
+
+NOTE: Sanity Studio v3 is now available.<br />
+See how to migrate: [Learn how to migrate Sanity Studio from v2 to v3](https://www.sanity.io/docs/migrating-from-v2)
 
 ## Step 2
 Once installed, create an "Empty Project", i.e. without any template to reference. When you are done installing your project, start it, and log in with the data you used to create your account in __Step 1__.
