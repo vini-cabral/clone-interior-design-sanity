@@ -10,9 +10,9 @@ __NOTA__: Já está disponível o Sanity Studio v3.<br />
 Veja como migrar: [Saiba como migrar o Sanity Studio de v2 para v3](https://www.sanity.io/docs/migrating-from-v2)
 
 ## Etapa 2:
-Depois de instalado, crie um "Projeto Vazio", ou seja, sem a utilização de algum template como referência. Concluído o processo de instalação do seu projeto, dê início a ele, e faça o login com os dados que você utilizou na criação de sua conta na __Etapa 1__.
+Depois de instalado, crie um "Projeto Vazio", ou seja, sem a utilização de algum template como referência. Concluído o processo de instalação do seu projeto, dê início a ele e faça o login com os dados que você utilizou na criação de sua conta na [__Etapa 1__](#etapa-1).
 
-__NOTA:__ Perceba que será executada uma aplicação web local rodando na `porta 3333`. Quando você acessar esse endereço, é que o login será exigido. Essa aplicação é o Sanity Studio!
+__NOTA:__ Perceba que será executado localmente, uma aplicação web rodando na `porta 3333`. Quando você acessar esse endereço, será exigido o login de acesso. Essa aplicação é o Sanity Studio!
 
 ## Etapa 3:
 Na estrutura de pastas do projeto criado, procure pela pasta `schemas`. Nela, cole todos os arquivos `.js` que estão na pasta de mesmo nome (`schemas`) neste repositório.
@@ -26,7 +26,7 @@ Volte para o Studio e preencha o conteúdo de todos os campos.
 __NOTA:__ Você pode usar as imagens disponíveis na pasta `img` deste repositório.
 
 ## Conclusão
-Agora você tem uma base de dados remota e gerenciável para utilizar em seu site, clique no link a seguir para configurar o Front-end com a Api do Sanity. Link para o setup: [__Front-end Setup__](https://github.com/vini-cabral/clone-interior-design#etapa-2---vari%C3%A1veis-de-ambiente)
+Agora você tem uma base de dados remota e gerenciável para utilizar em seu site.
 
 
 # Sanity Studio Installation and Use Manual (Sanity Studio v2)
@@ -41,7 +41,7 @@ NOTE: Sanity Studio v3 is now available.<br />
 See how to migrate: [Learn how to migrate Sanity Studio from v2 to v3](https://www.sanity.io/docs/migrating-from-v2)
 
 ## Step 2
-Once installed, create an "Empty Project", i.e. without any template to reference. When you are done installing your project, start it, and log in with the data you used to create your account in __Step 1__.
+Once installed, create an "Empty Project", i.e. without any template to reference. When you are done installing your project, start it, and log in with the data you used to create your account in [__Step 1__](#step-1).
 
 __NOTE:__ Note that a local web application will be running on `port 3333`. When you access this address, you will need to login. This application is Sanity Studio!
 
@@ -56,4 +56,4 @@ Go back to Studio and fill in all the fields.
 __NOTE:__ You can use the images available in the `img` folder in this repository.
 
 ## Conclusion
-Now you have a remote, manageable database to use for your website, click on the following link to set up the Front-end with Sanity's Api. Link to the setup: [__Front-end Setup__](https://github.com/vini-cabral/clone-interior-design#step-2---environment-variables)
+Now you have a remote, manageable database to use for your website.
