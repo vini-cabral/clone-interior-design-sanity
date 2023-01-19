@@ -1,6 +1,6 @@
 export default {
-  title: 'Teammate',
-  name: 'teammate',
+  title: 'Designers Section Part 2 (List)',
+  name: 'section03DesignersPart2',
   type: 'document',
   fields: [
     {
@@ -31,16 +31,6 @@ export default {
       },
       fields: [
         {
-          title: 'Caption',
-          name: 'caption',
-          type: 'string',
-          validation: Rule => Rule.required(),
-          options: {
-            isHighlighted: true // <-- make this field easily accessible
-          }
-        },
-        {
-          // Editing this field will be hidden behind an "Edit"-button
           title: 'Attribution',
           name: 'attribution',
           type: 'string',

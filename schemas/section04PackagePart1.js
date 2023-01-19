@@ -1,6 +1,6 @@
 export default {
-  title: 'Contact Section',
-  name: 'contact',
+  title: 'Package Section Part 1 (Description)',
+  name: 'section04PackagePart1',
   type: 'document',
   fields: [
     {

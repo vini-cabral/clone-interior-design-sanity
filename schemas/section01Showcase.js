@@ -1,11 +1,11 @@
 export default {
-  title: 'Project',
-  name: 'showcase',
+  title: 'Showcase Section (List)',
+  name: 'section01Showcase',
   type: 'document',
   fields: [
     {
-      title: 'Title',
-      name: 'title',
+      title: 'Project',
+      name: 'project',
       type: 'string',
       validation: Rule => Rule.required()
     },
@@ -19,19 +19,10 @@ export default {
       },
       fields: [
         {
-          title: 'Caption',
-          name: 'caption',
-          type: 'string',
-          validation: Rule => Rule.required(),
-          options: {
-            isHighlighted: true // <-- make this field easily accessible
-          }
-        },
-        {
-          // Editing this field will be hidden behind an "Edit"-button
           title: 'Attribution',
           name: 'attribution',
           type: 'string',
+          validation: Rule => Rule.required(),
         }
       ]
     },
@@ -45,19 +36,10 @@ export default {
       },
       fields: [
         {
-          title: 'Caption',
-          name: 'caption',
-          type: 'string',
-          validation: Rule => Rule.required(),
-          options: {
-            isHighlighted: true // <-- make this field easily accessible
-          }
-        },
-        {
-          // Editing this field will be hidden behind an "Edit"-button
           title: 'Attribution',
           name: 'attribution',
           type: 'string',
+          validation: Rule => Rule.required(),
         }
       ]
     }

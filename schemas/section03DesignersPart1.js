@@ -1,12 +1,12 @@
-import { textEditorStyles, textEditorMarks } from "./services"
+import { textEditorStyles, textEditorMarks } from "./section02Services"
 
 export default {
-  title: 'Designers Section',
-  name: 'designers',
+  title: 'Designers Section Part 1 (Description)',
+  name: 'section03DesignersPart1',
   type: 'document',
   fields: [
     {
-      title: 'Designers Section',
+      title: 'Section Description',
       name: 'body',
       type: 'array',
       validation: Rule => Rule.required(),

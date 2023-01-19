@@ -17,12 +17,12 @@ export const textEditorMarks = {
 }
 
 export default {
-  title: 'Services Section',
-  name: 'services',
+  title: 'Services Section (Description)',
+  name: 'section02Services',
   type: 'document',
   fields: [
     {
-      title: 'Services Section',
+      title: 'Section Description',
       name: 'body',
       type: 'array',
       validation: Rule => Rule.required(),
